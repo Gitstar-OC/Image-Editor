@@ -1,3 +1,3 @@
 # Image Editor
 
-A simple codeblock that can be used in nextjs edit the images in similar way to the ones we can edit in figma.  
+A simple website which lets you upload, edit and export image in the style of figma but without wasting a lot of time to create a new project. Short links are the below ones. 
